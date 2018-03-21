@@ -270,6 +270,7 @@ figure {
   article:first-child figure {
     width: 100%;
   }
+  
   /* article figure img .movie-image {
     display: none; }
 .movie-image {
